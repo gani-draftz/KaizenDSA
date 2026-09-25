@@ -1,5 +1,5 @@
 package Striver.Patterns;
-
+//right angle triangle with numbers
 import java.util.Scanner;
 
 public class Pattern3 {
